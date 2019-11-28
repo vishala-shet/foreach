@@ -1,0 +1,30 @@
+JavaScript, often abbreviated as JS, is a high-level,
+interpreted scripting language that conforms to the ECMAScript specification.
+JavaScript has curly-bracket syntax, functional programming language, 
+dynamic typing, prototype-based object-orientation, and first-class functions.
+
+The script element allows authors to include dynamic script and data blocks in their 
+documents. The element does not represents content or the user.
+
+writing the script tag in body part is best practice than writing inside the head block.
+
+web assembly is one of the language which is competator for JavaScript.
+
+If javascript is not supporting then we use noscript. 
+The noscript element represents nothing if scripting is enabled, and represents its children if scripting is disabled.
+It is used to present different markup to user agents that support scripting and those that don't support scripting, 
+by affecting how the document is parsed.
+
+alert is giving one option but
+confirm giving two option like ok and cancel.
+Before page loading user input can be loaded in prompt.
+
+Display
+1. document.write()
+2. window.alert()
+3.console.log()
+4.innerHTML
+
+
+
+
